@@ -1,0 +1,16 @@
+black = (0,0,0)
+red = (190,0,0)
+green = (0,190,0)
+blue = (0,0,190)
+white = (255,255,255)
+gray = (120, 120, 120)
+brown = (60, 40, 10)
+orange = (180, 150, 30)
+customcolor = (35, 30, 50)
+yellow = (240, 240, 0)
+
+lightgray = (190, 190, 190)
+
+darkred = (95,0,0)
+darkgreen = (0,95,0)
+darkblue = (0,0,95)
