@@ -10,6 +10,7 @@ Gera parâmetros aleatórios para as condições que são definidas pelo código
 
 ## Comandos
 
-Espaço - Limpa a tela e muda os parâmetros para geração do desenho da matriz <br/>
-Enter - Muda os parâmetros mas mantem os grids que estavam antes pintados <br/>
-Backspace - Limpa a tela <br/>
+### Espaço - Limpa a tela e muda os parâmetros para geração do desenho da matriz <br/>
+### Enter - Muda os parâmetros mas mantem os grids que estavam pintados <br/>
+### Backspace - Limpa a tela <br/>
+### Botão esquerdo do mouse - Repete o desenho gerado pelos parâmetros começando pelo quadrado que foi clicado
