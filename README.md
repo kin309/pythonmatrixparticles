@@ -6,12 +6,10 @@ Gera parâmetros aleatórios para as condições que são definidas pelo código
 
 ## Tela do programa
 
-Matriz 30x30
-
 ![screen](https://user-images.githubusercontent.com/30506992/172220428-9e3a8aa8-5414-4ed5-83a9-3047d3cf1596.png)
 
 ## Comandos
 
-Espaço - Limpa a tela e muda os parâmetros para geração do desenho da matriz
-Enter - Muda os parâmetros mas mantem os grids que estavam antes pintados
-Backspace - Limpa a tela
+Espaço - Limpa a tela e muda os parâmetros para geração do desenho da matriz <br/>
+Enter - Muda os parâmetros mas mantem os grids que estavam antes pintados <br/>
+Backspace - Limpa a tela <br/>
