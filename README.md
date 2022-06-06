@@ -1,3 +1,5 @@
-# Meu primeiro projeto 1
+# Grid Generative Art
+
+Gerador de telas aleatórias utilizando matrizes
 
 ## um texto normal
