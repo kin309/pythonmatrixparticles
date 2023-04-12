@@ -2,7 +2,7 @@
 
 Gerador de telas aleatórias utilizando matrizes
 
-Gera parâmetros aleatórios para as condições que são definidas pelo código do programa criando imagens na tela em uma matriz de quadrados de 30x30 quadrados
+Gera padrões aleatórios que criam imagens na tela em uma matriz de quadrados de 30x30 quadrados
 
 ## Tela do programa
 
